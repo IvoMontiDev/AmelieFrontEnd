@@ -3,7 +3,7 @@ import { Accordion, AccordionSummary, AccordionDetails, Typography } from '@mui/
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { useQuery } from '@tanstack/react-query';
 import { getSubcategoriesByCategoryId, getAllProducts } from '../../services/menuService';
-import ProductList from '../order/ProductList';
+import ProductList from './ProductList';
 import { styled } from '@mui/material/styles';
 import latabernaImage from '../../assets/lataberna.jpg'; // Asegúrate de que la ruta sea correcta
 

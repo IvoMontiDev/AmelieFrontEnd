@@ -1,5 +1,6 @@
 const importAll = (r) => {
     let images = {};
+     // eslint-disable-next-line
     r.keys().map((item) => { images[item.replace('./', '')] = r(item); });
     return images;
   };

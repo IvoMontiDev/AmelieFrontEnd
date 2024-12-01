@@ -79,7 +79,7 @@ const Footer = () => {
             <Typography variant="body1" data-test="contact-phone">
               <IconButton 
                 component="a" 
-                href="https://wa.me/2364631313" 
+                href="https://wa.me/2364489575" 
                 target="_blank" 
                 aria-label="WhatsApp" 
                 data-test="whatsapp-icon"
@@ -87,12 +87,12 @@ const Footer = () => {
                 <Phone />
               </IconButton>
               <a 
-                href="https://wa.me/5491112345678" 
+                href="https://wa.me/5492364489575" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 data-test="whatsapp-link"
               >
-                236 463 1313
+                236 448 9575
               </a>
             </Typography>
             <Typography variant="body2" data-test="contact-email">
@@ -111,7 +111,7 @@ const Footer = () => {
             <Typography variant="body2" data-test="contact-address">
               <IconButton 
                 component="a" 
-                href="https://www.google.com/maps?q=Calle+Falsa+123,+Jun%C3%ADn,+Buenos+Aires,+Argentina" 
+                href="https://www.google.com.ar/maps/place/Le+Jardin+d'Amelie/@-34.593099,-60.943487,21z/data=!4m6!3m5!1s0x95b8ebd66e611deb:0x8437bfc19a75a9ed!8m2!3d-34.5930772!4d-60.9435899!16s%2Fg%2F11pvb5gnh3?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D" 
                 target="_blank" 
                 aria-label="Address" 
                 data-test="address-icon"
@@ -119,12 +119,12 @@ const Footer = () => {
                 <LocationOn />
               </IconButton>
               <a 
-                href="https://www.google.com.ar/maps/place/Restaurante+Andi/@-34.5915547,-60.9470973,19.75z/data=!4m5!3m4!1s0x95b8eb2938a84153:0x299b2fe49ac735e6!8m2!3d-34.5915829!4d-60.9468149?hl=es" 
+                href="https://www.google.com.ar/maps/place/Le+Jardin+d'Amelie/@-34.593099,-60.943487,21z/data=!4m6!3m5!1s0x95b8ebd66e611deb:0x8437bfc19a75a9ed!8m2!3d-34.5930772!4d-60.9435899!16s%2Fg%2F11pvb5gnh3?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 data-test="address-link"
               >
-                R. E. de San Martín 13. Junín BA
+                Narbondo 34. Junín BA
               </a>
             </Typography>
           </ContactInfo>
@@ -137,7 +137,7 @@ const Footer = () => {
           <SocialIcons data-test="social-icons">
             <IconButton 
               component="a" 
-              href="https://www.facebook.com/andirestaurante" 
+              href="https://www.facebook.com/profile.php?id=100083276110577" 
               target="_blank" 
               aria-label="Facebook" 
               data-test="facebook-icon"
